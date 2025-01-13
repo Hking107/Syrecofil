@@ -3,7 +3,8 @@ Systeme de recommendation de filmes basee sur les preferences utilisateur en uti
 
 ## Structure du projet
 
-movie_recommender/ 
+```shell
+  movie_recommender/ 
   ├── data/ 
   │ ├── movies.csv 
   | └── ratings.csv 
@@ -14,7 +15,7 @@ movie_recommender/
   │ └── main.py 
   ├── requirements.txt 
   └── README.md
-
+```
 ## Installation
 
 1. Cloner ce dépôt.
